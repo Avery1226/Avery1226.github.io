@@ -228,13 +228,13 @@ header nav a {
 }
 
 #whatWeDoText {
-    background: gray;
-    border: 1px solid black;
+    background: none;
+    border: none;
     color: black;
     text-align: center;
     padding: 0px;
     position: absolute;
-    top: 37%;
+    top: 38%;
     width: 17%;
     height: 5%;
     left: 79%;
@@ -252,13 +252,13 @@ header nav a {
 }
 
 #whatWeUseText {
-    background: gray;
-    border: 1px solid black;
+    background: none;
+    border: none;
     color: black;
     text-align: center;
     padding: 0px;
     position: absolute;
-    top: 62%;
+    top: 63%;
     width: 17%;
     height: 5%;
     left: 79%;
@@ -336,7 +336,7 @@ header nav a {
     text-align: center;
     padding: 0px;
     position: absolute;
-    top: 37%;
+    top: 38%;
     width: 17%;
     height: 5%;
     left: 79%;
@@ -349,7 +349,7 @@ header nav a {
     text-align: center;
     padding: 0px;
     position: absolute;
-    top: 62%;
+    top: 63%;
     width: 17%;
     height: 5%;
     left: 79%;
